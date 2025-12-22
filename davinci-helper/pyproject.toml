@@ -43,7 +43,8 @@ packages = ["davinci_helper", "davinci_helper.functions", "davinci_helper.functi
     "data/settings/davinci_helper_settings",
     "data/ui/*.ui",
     "data/LICENSE",
-    "locale/it/LC_MESSAGES/davinci-helper.mo"
+    "locale/it/LC_MESSAGES/davinci-helper.mo",
+    "locale/fr/LC_MESSAGES/davinci-helper.mo"
 ]
 
 [tool.setuptools.data-files]
@@ -110,3 +111,4 @@ packages = ["davinci_helper", "davinci_helper.functions", "davinci_helper.functi
 ]
 "share/davinci-helper/data" = ["data/LICENSE"]
 "share/davinci-helper/locale/it/LC_MESSAGES" = ["locale/it/LC_MESSAGES/davinci-helper.mo"]
+"share/davinci-helper/locale/fr/LC_MESSAGES" = ["locale/fr/LC_MESSAGES/davinci-helper.mo"]
