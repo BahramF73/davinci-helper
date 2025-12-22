@@ -52,7 +52,7 @@ def check_update ():
     #-----------------------------------------------------------------------------------------------------
 
     # SETTING THE ENVIRONMENT VARIABLES 
-    owner = "H3rz3n"
+    owner = "bpresles"
     repo = "davinci-helper"
     url = f"https://api.github.com/repos/{owner}/{repo}/releases/latest" 
 

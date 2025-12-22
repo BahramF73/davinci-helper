@@ -1,7 +1,7 @@
 #
 # Copyright 2025 Lorenzo Maiuri
 # Published under GPL-3.0 license
-# GitHub : https://github.com/H3rz3n/davinci-helper
+# GitHub : https://github.com/bpresles/davinci-helper
 #
 
 #-----------------------------------------------------------------------------------------------------
@@ -127,7 +127,7 @@ class check_update_dialog_class ():
         #-----------------------------------------------------------------------------------------------------
 
         # SETTONG THE DOWNLOAD PAGE LINK
-        url = "https://github.com/H3rz3n/davinci-helper/releases/latest"
+        url = "https://github.com/bpresles/davinci-helper/releases/latest"
 
         # USING GIO TO OPEN THE URL IN THE DEFAULT WEB BROWSER
         Gio.AppInfo.launch_default_for_uri(url)

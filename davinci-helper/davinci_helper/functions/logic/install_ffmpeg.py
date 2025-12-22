@@ -95,7 +95,7 @@ def install_ffmpeg ():
         print("")
         print(_("Please open an issue report and paste this error code on the project GitHub page :"))
         print("")
-        print("https://github.com/H3rz3n/davinci-helper/issues")
+        print("https://github.com/bpresles/davinci-helper/issues")
         print("")
         exit(2)
 
@@ -127,7 +127,7 @@ def swap_ffmpeg ():
         print("")
         print(_("Please open an issue report and paste this error code on the project GitHub page :"))
         print("")
-        print("https://github.com/H3rz3n/davinci-helper/issues")
+        print("https://github.com/bpresles/davinci-helper/issues")
         print("")
         exit(3)
 
@@ -285,7 +285,7 @@ def install_codecs (lib_install_list):
         print("")
         print(_("Please open an issue report and paste this error code on the project GitHub page :"))
         print("")
-        print("https://github.com/H3rz3n/davinci-helper/issues")
+        print("https://github.com/bpresles/davinci-helper/issues")
         print("")
         exit(4)
 
@@ -319,7 +319,7 @@ def update_multimedia_40_41 ():
         print("")
         print(_("Please open an issue report and paste this error code on the project GitHub page :"))
         print("")
-        print("https://github.com/H3rz3n/davinci-helper/issues")
+        print("https://github.com/bpresles/davinci-helper/issues")
         print("")
         exit(5)
 
@@ -349,7 +349,7 @@ def update_multimedia_42 ():
         print("")
         print(_("Please open an issue report and paste this error code on the project GitHub page :"))
         print("")
-        print("https://github.com/H3rz3n/davinci-helper/issues")
+        print("https://github.com/bpresles/davinci-helper/issues")
         print("")
         exit(5)
 

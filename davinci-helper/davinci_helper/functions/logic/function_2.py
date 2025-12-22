@@ -63,7 +63,7 @@ if file_path.find(".run") != -1 :
         print("")
         print(_("Please open an issue report and paste this error code on the project GitHub page :"))
         print("")
-        print("https://github.com/H3rz3n/davinci-helper/issues")
+        print("https://github.com/bpresles/davinci-helper/issues")
         print("")
         exit(2)
 
@@ -105,7 +105,7 @@ else :
         print("")
         print(_("Please open an issue report and paste this error code on the project GitHub page :"))
         print("")
-        print("https://github.com/H3rz3n/davinci-helper/issues")
+        print("https://github.com/bpresles/davinci-helper/issues")
         print("")
         exit(1)
 
@@ -125,7 +125,7 @@ else :
         print("")
         print(_("Please open an issue report and paste this error code on the project GitHub page :"))
         print("")
-        print("https://github.com/H3rz3n/davinci-helper/issues")
+        print("https://github.com/bpresles/davinci-helper/issues")
         print("")
         exit(2)
 

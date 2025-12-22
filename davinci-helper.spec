@@ -14,10 +14,10 @@ Summary:        The best DaVinci Resolve companion app on Linux
 License:        GPL-3.0
 
 # WEB ADDRESS OF THE APP GITHUB
-URL:            https://github.com/H3rz3n/davinci-helper
+URL:            https://github.com/bpresles/davinci-helper
 
-# COMPILATION SOURCE https://github.com/H3rz3n/davinci-helper/blob/testing/
-Source0:        %{name}-%{version}.tar.gz 
+# COMPILATION SOURCE https://github.com/bpresles/davinci-helper/blob/testing/
+Source0:        %{name}-%{version}.tar.gz
 
 # COMPILATION ARCHITECTURE
 BuildArch:      noarch
@@ -92,16 +92,20 @@ install -Dm644 %{_builddir}/%{name}-%{version}/data/polkit/com.davinci.helper.ap
 update-desktop-database &> /dev/null || :
 sudo systemctl restart polkit
 
-# CHANGELOG OF THE VERSION 
+# CHANGELOG OF THE VERSION
 %changelog
 
-* Thu May 08 2025 Lorenzo Maiuri <lorenzo.maiuri@ik.me> - 2.4.8-1
+* Mon Dec 22 2025 Bertrand Presles <bertrand@presles.fr> - 2.4.8-1
+- Added Fedora 43 support.
+- Added french translation.
+
+* Thu May 08 2025 Lorenzo Maiuri <lorenzo.maiuri@ik.me> - 2.4.7-1
 - Fixed a major typo in the source code.
 
 * Thu May 08 2025 Lorenzo Maiuri <lorenzo.maiuri@ik.me> - 2.4.6-1
 - Resolved installation issues with FFMPEG in certain configurations.
 
-* Fri May 03 2025 Lorenzo Maiuri <lorenzo.maiuri@ik.me> - 2.4.4-1
+* Sat May 03 2025 Lorenzo Maiuri <lorenzo.maiuri@ik.me> - 2.4.4-1
 - Resolved installation issues with AMD GPU drivers in certain configurations.
 
 * Fri May 02 2025 Lorenzo Maiuri <lorenzo.maiuri@ik.me> - 2.4.3-3
@@ -112,6 +116,3 @@ sudo systemctl restart polkit
 
 * Fri Feb 07 2025 Lorenzo Maiuri <lorenzo.maiuri@ik.me> - 2.3.5-1
 - Fixed polkit not restarting after app installation.
-
-
-

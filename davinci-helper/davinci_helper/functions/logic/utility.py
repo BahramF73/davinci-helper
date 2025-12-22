@@ -1,7 +1,7 @@
 #
 # Copyright 2025 Lorenzo Maiuri
 # Published under GPL-3.0 license
-# GitHub : https://github.com/H3rz3n/davinci-helper
+# GitHub : https://github.com/bpresles/davinci-helper
 #
 
 #-----------------------------------------------------------------------------------------------------
@@ -165,7 +165,7 @@ def check_fedora_version ():
         print("")
         print(_("Please open an issue report and paste this error code on the project GitHub page :"))
         print("")
-        print("https://github.com/H3rz3n/davinci-helper/issues")
+        print("https://github.com/bpresles/davinci-helper/issues")
         print("")
         exit(1)
 
@@ -204,7 +204,7 @@ def add_repository():
             print("")
             print(_("Please open an issue report and paste this error code on the project GitHub page :"))
             print("")
-            print("https://github.com/H3rz3n/davinci-helper/issues")
+            print("https://github.com/bpresles/davinci-helper/issues")
             print("")
             exit(2)
 

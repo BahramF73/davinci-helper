@@ -2,7 +2,7 @@
 # Copyright 2025 Lorenzo Maiuri
 # Pubblicato sotto licenza GPL-3.0
 # Published under GPL-3.0 license
-# GitHub : https://github.com/H3rz3n/davinci-helper
+# GitHub : https://github.com/bpresles/davinci-helper
 #
 
 #-----------------------------------------------------------------------------------------------------

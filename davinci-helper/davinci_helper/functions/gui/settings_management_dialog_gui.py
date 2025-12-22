@@ -1,7 +1,7 @@
 #
 # Copyright 2025 Lorenzo Maiuri
 # Published under GPL-3.0 license
-# GitHub : https://github.com/H3rz3n/davinci-helper
+# GitHub : https://github.com/bpresles/davinci-helper
 #
 
 #-----------------------------------------------------------------------------------------------------
@@ -98,7 +98,7 @@ class setting_management_dialog_class ():
         self.dialog_title.set_text(_("Settings restored successfully"))
        
         # LOADING SUBTITLE TEXT
-        subtitle = (_('''The default app settings have been restored successfully.\nIf you are still experiencing any error or bug,\nplease contact us on the <a href=\"https://github.com/H3rz3n/davinci-helper/issues\">project GitHub page</a>'''))
+        subtitle = (_('''The default app settings have been restored successfully.\nIf you are still experiencing any error or bug,\nplease contact us on the <a href=\"https://github.com/bpresles/davinci-helper/issues\">project GitHub page</a>'''))
         self.dialog_subtitle.set_markup(subtitle)
 
         # CONNECTING THE START BUTTON TO THE FUNCTION

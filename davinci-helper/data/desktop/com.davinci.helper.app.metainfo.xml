@@ -60,32 +60,32 @@
 
         <!-- FIRST SCREENSHOT -->
         <screenshot type="default">
-            <image>https://github.com/H3rz3n/davinci-helper/blob/main/screenshot/01.png?raw=true</image>
+            <image>https://github.com/bpresles/davinci-helper/blob/main/screenshot/01.png?raw=true</image>
             <caption>App homepage</caption>
         </screenshot>
 
         <screenshot >
-            <image>https://github.com/H3rz3n/davinci-helper/blob/main/screenshot/02.png?raw=true</image>
+            <image>https://github.com/bpresles/davinci-helper/blob/main/screenshot/02.png?raw=true</image>
             <caption>Dependecies assistant</caption>
         </screenshot>
 
         <screenshot >
-            <image>https://github.com/H3rz3n/davinci-helper/blob/main/screenshot/03.png?raw=true</image>
+            <image>https://github.com/bpresles/davinci-helper/blob/main/screenshot/03.png?raw=true</image>
             <caption>Installer starter</caption>
         </screenshot>
 
         <screenshot >
-            <image>https://github.com/H3rz3n/davinci-helper/blob/main/screenshot/04.png?raw=true</image>
+            <image>https://github.com/bpresles/davinci-helper/blob/main/screenshot/04.png?raw=true</image>
             <caption>Post-installation fix applicator</caption>
         </screenshot>
 
         <screenshot >
-            <image>https://github.com/H3rz3n/davinci-helper/blob/main/screenshot/05.png?raw=true</image>
+            <image>https://github.com/bpresles/davinci-helper/blob/main/screenshot/05.png?raw=true</image>
             <caption>GPU driver assistant</caption>
         </screenshot>
 
         <screenshot >
-            <image>https://github.com/H3rz3n/davinci-helper/blob/main/screenshot/06.png?raw=true</image>
+            <image>https://github.com/bpresles/davinci-helper/blob/main/screenshot/06.png?raw=true</image>
             <caption>Video coverter</caption>
         </screenshot>
     
@@ -95,22 +95,25 @@
 
 
     <!-- APP HOMEPAGE LINK -->
-    <url type="homepage">https://github.com/H3rz3n/davinci-helper</url>
+    <url type="homepage">https://github.com/bpresles/davinci-helper</url>
 
     <!-- APP BUGTRACKER LINK -->
-    <url type="bugtracker">https://github.com/H3rz3n/davinci-helper/issues</url>
+    <url type="bugtracker">https://github.com/bpresles/davinci-helper/issues</url>
 
     <!-- APP DONATION LINK -->
     <url type="donation">https://www.paypal.com/donate/?hosted_button_id=CPCG2RFAV82T8</url>
 
     <!-- APP HELP LINK -->
-    <url type="help">https://github.com/H3rz3n/davinci-helper/</url>
+    <url type="help">https://github.com/bpresles/davinci-helper/</url>
 
 
 
     <!-- DEVELOPER / COMPANY INFO -->
     <developer id="it.h3rz3n">
         <name>Lorenzo Maiuri</name>
+    </developer>
+    <developer id="fr.bpresles">
+        <name>Bertrand Presles</name>
     </developer>
 
 

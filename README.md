@@ -100,14 +100,14 @@ sudo dnf install -y davinci-helper
 
 ## How to Use DaVinci Helper
 
-A complete, step-by-step tutorial is available [here](https://github.com/H3rz3n/How-install-DaVinci-Resolve-in-Fedora-Linux).
+A complete, step-by-step tutorial is available [here](https://github.com/bpresles/How-install-DaVinci-Resolve-in-Fedora-Linux).
 
 ---
 
 ## Want to Contribute?
 
 You can help DaVinci Helper grow by:
-- [Testing GPU drivers](https://github.com/H3rz3n/davinci-helper/discussions)
+- [Testing GPU drivers](https://github.com/bpresles/davinci-helper/discussions)
 - Translating the app into your language
 - [Making a donation](https://www.paypal.com/donate/?hosted_button_id=CPCG2RFAV82T8) to support ongoing maintenance and development
 
@@ -115,7 +115,7 @@ You can help DaVinci Helper grow by:
 
 ## Project Roadmap
 
-All details about upcoming features and plans are available on the [Project Roadmap page](https://github.com/H3rz3n/davinci-helper/wiki/Project-roadmap).
+All details about upcoming features and plans are available on the [Project Roadmap page](https://github.com/bpresles/davinci-helper/wiki/Project-roadmap).
 
 ---
 

@@ -15,7 +15,7 @@ mv davinci-helper davinci-helper-${version}
 tar -cvzf davinci-helper-${version}.tar.gz davinci-helper-${version}
 
 mv davinci-helper-${version}.tar.gz "/home/$USER/rpmbuild/SOURCES/"
-rpmbuild -bb davinci-helper.spec 
+rpmbuild -bb davinci-helper.spec
 
 
 sudo dnf remove -y davinci-helper
@@ -23,8 +23,6 @@ sudo dnf install -y /home/$USER/rpmbuild/RPMS/noarch/davinci-helper-${version}-1
 
 
 #cp /home/$USER/rpmbuild/RPMS/noarch/davinci-helper-${version}-1.noarch.rpm /home/$USER/Pubblici/Test_Davinci_Helper
-#cd .. 
+#cd ..
 #rm -rf "/home/$USER/build_davinci_helper"
 #rm "/home/$USER/rpmbuild/SOURCES/davinci-helper-${version}.tar.gz"
-
-

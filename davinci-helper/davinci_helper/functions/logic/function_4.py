@@ -77,7 +77,7 @@ def install_nvidia_driver():
             print(nvidia_driver_install.stdout)
             print("")
             print(_("Please open an issue report and paste this error code on the project GitHub page :"))
-            print("https://github.com/H3rz3n/davinci-helper/issues")
+            print("https://github.com/bpresles/davinci-helper/issues")
             print("")            
             exit(3)
 
@@ -128,7 +128,7 @@ def install_amd_driver():
                 print(amd_driver_install.stdout)
                 print("")
                 print(_("Please open an issue report and paste this error code on the project GitHub page :"))
-                print("https://github.com/H3rz3n/davinci-helper/issues")
+                print("https://github.com/bpresles/davinci-helper/issues")
                 print("")            
                 exit(3)
 
@@ -147,7 +147,7 @@ def install_amd_driver():
                 print(amd_driver_install.stdout)
                 print("")
                 print(_("Please open an issue report and paste this error code on the project GitHub page :"))
-                print("https://github.com/H3rz3n/davinci-helper/issues")
+                print("https://github.com/bpresles/davinci-helper/issues")
                 print("")            
                 exit(3)
 
@@ -175,7 +175,7 @@ def install_amd_driver():
             print(mesa_driver_swap.stdout)
             print("")
             print(_("Please open an issue report and paste this error code on the project GitHub page :"))
-            print("https://github.com/H3rz3n/davinci-helper/issues")
+            print("https://github.com/bpresles/davinci-helper/issues")
             print("")            
             exit(3)
 
@@ -223,7 +223,7 @@ def install_intel_driver_40_41():
             print(intel_driver_install.stdout)
             print("")
             print(_("Please open an issue report and paste this error code on the project GitHub page :"))
-            print("https://github.com/H3rz3n/davinci-helper/issues")
+            print("https://github.com/bpresles/davinci-helper/issues")
             print("")            
             exit(3)
 
@@ -257,7 +257,7 @@ def install_intel_driver_40_41():
             print(mesa_driver_swap.stdout)
             print("")
             print(_("Please open an issue report and paste this error code on the project GitHub page :"))
-            print("https://github.com/H3rz3n/davinci-helper/issues")
+            print("https://github.com/bpresles/davinci-helper/issues")
             print("")            
             exit(3)
 
@@ -295,7 +295,7 @@ def install_intel_driver_42():
             print(intel_driver_install.stdout)
             print("")
             print(_("Please open an issue report and paste this error code on the project GitHub page :"))
-            print("https://github.com/H3rz3n/davinci-helper/issues")
+            print("https://github.com/bpresles/davinci-helper/issues")
             print("")            
             exit(3)
 
@@ -329,7 +329,7 @@ def install_intel_driver_42():
                 print(intel_driver_install.stdout)
                 print("")
                 print(_("Please open an issue report and paste this error code on the project GitHub page :"))
-                print("https://github.com/H3rz3n/davinci-helper/issues")
+                print("https://github.com/bpresles/davinci-helper/issues")
                 print("")            
                 exit(3)
 

@@ -63,7 +63,7 @@ def get_libraries_list ():
         print("")
         print(_("Please open an issue report and paste this error code on the project GitHub page :"))
         print("")
-        print("https://github.com/H3rz3n/davinci-helper/issues")
+        print("https://github.com/bpresles/davinci-helper/issues")
         print("")
         exit(2)
 
@@ -205,7 +205,7 @@ def libraries_installation (lib_to_install):
         print("")
         print(_("Please open an issue report and paste this error code on the project GitHub page :"))
         print("")
-        print("https://github.com/H3rz3n/davinci-helper/issues")
+        print("https://github.com/bpresles/davinci-helper/issues")
         print("")
         exit(3)
 

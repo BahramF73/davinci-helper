@@ -1,7 +1,7 @@
 #
 # Copyright 2025 Lorenzo Maiuri
 # Published under GPL-3.0 license
-# GitHub : https://github.com/H3rz3n/davinci-helper
+# GitHub : https://github.com/bpresles/davinci-helper
 #
 
 #-----------------------------------------------------------------------------------------------------
@@ -120,7 +120,7 @@ class welcome_dialog_class ():
         self.dialog_subtitle_2.set_text(_("This app is not affiliated in any way with BlackMagic Design, it's only a community project and comes without any guarantees.\n"))
 
         # LOADING SUBTITLE TEXT
-        paragraph_3 = (_('''If you find this app useful and want to improve it please consider helping us <a href=\"https://github.com/H3rz3n/davinci-helper\">developing</a> this app or <a href=\"https://www.paypal.com/donate/?hosted_button_id=CPCG2RFAV82T8\">making a donation</a>  to the project.'''))
+        paragraph_3 = (_('''If you find this app useful and want to improve it please consider helping us <a href=\"https://github.com/bpresles/davinci-helper\">developing</a> this app or <a href=\"https://www.paypal.com/donate/?hosted_button_id=CPCG2RFAV82T8\">making a donation</a>  to the project.'''))
         self.dialog_subtitle_3.set_markup(paragraph_3)
 
         # LOADING SUBTITLE TEXT
