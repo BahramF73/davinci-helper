@@ -14,9 +14,8 @@ Summary:        The best DaVinci Resolve companion app on Linux
 License:        GPL-3.0
 
 # WEB ADDRESS OF THE APP GITHUB
-URL:            https://github.com/H3rz3n/davinci-helper
+URL:            https://github.com/BahramF73/davinci-helper
 
-# COMPILATION SOURCE https://github.com/H3rz3n/davinci-helper/blob/testing/
 Source0:        %{name}-%{version}.tar.gz 
 
 # COMPILATION ARCHITECTURE
